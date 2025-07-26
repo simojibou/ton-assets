@@ -1,0 +1,15 @@
+{
+  "address": "UQD1TlRrCeCd004h4V14Lt2L-DZqSJ8x5Vjhq-JU282mDQfz",
+  "name": "SJCOIN",
+  "symbol": "SJ",
+  "decimals": 9,
+  "description": "The most gypsy token on TON",
+  "image": "https://github.com/simojibou/logo/blob/main/logo.PNG?raw=true",
+  "social": [
+    "https://www.instagram.com/simo.jibou",
+    "https://www.youtube.com/channel/UCIf9-WUSicjKFYFv9v2VEaQ"
+  ],
+  "websites": [
+    "https://play.google.com/store/apps/details?id=com.sj.store"
+  ]
+}
